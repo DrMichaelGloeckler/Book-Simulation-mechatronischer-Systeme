@@ -1,3 +1,0 @@
-Die Parameterdatei 
-  Parameter_Aufgabe_3_1.m
-muss vor der Simulation ausgeführt werden. 
