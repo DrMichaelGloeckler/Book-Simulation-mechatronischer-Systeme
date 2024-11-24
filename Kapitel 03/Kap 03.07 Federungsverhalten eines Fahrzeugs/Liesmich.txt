@@ -1,0 +1,11 @@
+Der Ordner enthält folgende Dateien:
+
+  Fahrzeugmodell_Parameter.m
+    Datei mit den Parametern des Fahrzeugs. 
+    Diese muss vor der Simulation ausgeführt werden. 
+
+  Fahrzeugmodell_MATLAB.m : 
+    Simulation des Fahrzeugmodells innerhalb von MATLAB
+
+  Fahrzeugmodell_Sprungantwort.mdl: 
+    Simulation des Fahrzeugmodells innerhalb von Simulink
